@@ -47,9 +47,6 @@
  </p>
  </samp>
 </div>
-</details>
-  
-</details>
 <br/>
 </details> 
 
