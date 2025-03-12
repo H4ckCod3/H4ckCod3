@@ -25,7 +25,7 @@
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>👁‍🗨 about</summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
