@@ -40,7 +40,7 @@
   <p align="center">
   </p>
  <p align="center">
-  <a href="github.com/1999AZZAR" target="blank"><img align="center" 
+  <a href="https://eurospainiptv.com/" target="blank"><img align="center" 
      src="https://img.shields.io/github/license/1999AZZAR/1999AZZAR?color=purple&style=for-the-badge" height="25"
      alt="lisense" /></a>
 
